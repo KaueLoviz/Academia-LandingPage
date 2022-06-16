@@ -9,7 +9,3 @@ Uma pagina web modelo landing page para aprimoramento na parte front-end.
  
 ## Tech Stack📝
 **Front-end:** HTML, CSS.
-
-
-## Link🏠
-- [Landing-Page](https://kaueloviz.github.io/Academia-LandingPage/) 
